@@ -5,3 +5,11 @@
 4. check out project from git
 5. inside code floder from cmd run cammand- npm install
 
+Now to start mongo db
+1. create folder in e or f drive wherever you want as data
+2. use this command to run mongo 
+mongod --dbpath F:\data --port 27017
+if it says mongo command is not available. first install mongo
+
+To run node server use below command
+node app.js
