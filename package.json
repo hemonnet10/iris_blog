@@ -1,0 +1,19 @@
+{
+  "name": "iris-blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "IRIS"
+}
