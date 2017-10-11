@@ -16,3 +16,4 @@ if it says mongo command is not available. first install mongo
    
 To run node server use below command
 node app.js
+  
