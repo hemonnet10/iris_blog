@@ -1,0 +1,1 @@
+{"_id":{"$oid":"59d33a7a68e0336075c9de43"},"category":"cat1","subject":"sub1","content":"content1","author":"aut1","comments":[{"personName":"TestUser","id":"per123","comment":"Nice written comment"}],"vote":2}
