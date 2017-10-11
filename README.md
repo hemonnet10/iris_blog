@@ -10,6 +10,9 @@ Now to start mongo db
 2. use this command to run mongo 
 mongod --dbpath F:\data --port 27017
 if it says mongo command is not available. first install mongo
-
+3. To create db schema
+   create database as iris_blog
+   import json files from floder db_files to iris_blog schema
+   
 To run node server use below command
 node app.js
