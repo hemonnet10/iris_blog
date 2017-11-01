@@ -16,4 +16,24 @@ if it says mongo command is not available. first install mongo
    
 To run node server use below command
 node app.js
+
+To test get api
+http://localhost:3000/getArticles
+To test save api
+
+http://localhost:3000/saveArticle
+Methode-POST
+Content-Type:application/json
+Sample JSON
+
+{
+"category":"saveTestcat1",
+"subject":"saveTestsub1",
+"content":"saveTestcontent1",
+"author":"saveTestaut1",
+"comments":[{"personName":"saveTestTestUser","id":"saveTestper123","comment":"saveTest Nice written comment"}],
+"vote":9
+}
+
+
   
